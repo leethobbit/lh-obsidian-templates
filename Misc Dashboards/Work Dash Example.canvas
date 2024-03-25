@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b55cda1fea948609","type":"text","text":"![[02 Projects#Work - Support Engineering]]","x":45,"y":-140,"width":915,"height":648,"color":"4"},
+		{"id":"9ee484bff9cd3ee0","type":"file","file":"media/twice-group-2.bmp","x":45,"y":-750,"width":915,"height":610},
+		{"id":"5325d46940eb0e8c","type":"text","text":"## Pages\n- [[Troubleshooting Cheat Sheet]]\n- [[Device Connectivity Problems]]\n- [[Cisco Device Support]]\n- [[Fortinet Device Support]]\n- [[Palo Alto Device Support]]\n- [[Checkpoint Device Support]]\n- [[Cloud Platform Support]]\n- [[Other Device Support]]\n- [[PSQL Commands]]\n","x":-355,"y":-750,"width":400,"height":435,"color":"4"},
+		{"id":"0db19db593b9fab4","type":"text","text":"## Tasks\n```tasks\nnot done\npath includes Support\npriority is above medium\n```","x":-355,"y":80,"width":400,"height":428,"color":"4"},
+		{"id":"8089862c643e2750","type":"file","file":"media/nayeon-ice-cream.bmp","x":-355,"y":-315,"width":400,"height":395,"color":"5"},
+		{"id":"1989c3b4ced30064","type":"text","text":"## Useful Links\n- [The Github page for this repo](https://github.com/leethobbit/lh-obsidian-templates)\n- \n","x":960,"y":-750,"width":320,"height":430,"color":"4"},
+		{"id":"4f2935eca98f8ea9","type":"file","file":"media/momo-mic.bmp","x":960,"y":-320,"width":320,"height":480,"color":"5"},
+		{"id":"26db584061a8945a","type":"text","text":"### SRs Closed\n```dataview\nTABLE Count\nFROM \"00 Meta/02 Action/02 Projects/Support Requests\"\nFLATTEN status AS Status\nWHERE Status = \"Resolved\"\nGROUP BY Status\nFLATTEN length(rows.Status) AS Count\n```\n### SRs Open\n```dataview\nTABLE Count\nFROM \"00 Meta/02 Action/02 Projects/Support Requests\"\nFLATTEN status AS Status\nWHERE Status != \"Resolved\"\nGROUP BY Status\nFLATTEN length(rows.Status) AS Count\n```","x":960,"y":160,"width":320,"height":348,"color":"4"},
+		{"id":"50660403b0dbefe2","type":"text","text":"# Support Dashboard","x":333,"y":-920,"width":340,"height":70,"color":"5"}
+	],
+	"edges":[]
+}
