@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[P&L Dashboard#Trading - 2024]]","id":"d7dd88de80783841","x":-879,"y":650,"width":1621,"height":330,"color":"6"},
+		{"type":"text","text":"![[P&L Dashboard#P&L - Last 365 Days]]","id":"652bfcff314b403e","x":201,"y":150,"width":541,"height":500,"color":"4"},
+		{"type":"text","text":"![[P&L Dashboard#P&L - Last 7 Days]]","id":"697dfdcc0767e06a","x":202,"y":-350,"width":540,"height":500,"color":"4"},
+		{"type":"text","text":"![[P&L Dashboard#P&L - Last 30 Days]]","id":"99a9047ad1c9f170","x":-879,"y":150,"width":540,"height":500,"color":"4"},
+		{"type":"text","text":"![[P&L Dashboard#P&L - Last 90 Days]]","id":"3ca9c01eadeee423","x":-338,"y":150,"width":540,"height":500,"color":"4"},
+		{"type":"text","text":"![[P&L Dashboard#Trade Journal - Last 10 Days]]","id":"b392f380ed20b54c","x":-608,"y":-350,"width":810,"height":500,"color":"2"},
+		{"type":"text","text":"## Trading Rules\n- No trades after 10:30am\n- Float: Less than 20 million\n- Price: $1-15\n- Should have News Catalyst\n- Obvious Gapper (Top 5)\n- Buy at Support\n- High Relative Volume\n- $750 Position Sizing\n","id":"9551d4754f36d02b","x":-879,"y":-350,"width":270,"height":500,"color":"3"},
+		{"type":"text","text":"![[P&L Dashboard#Total Profit/Loss]]","id":"163037f26f5f7443","x":-232,"y":-485,"width":313,"height":135,"color":"5"}
+	],
+	"edges":[]
+}
