@@ -4,6 +4,11 @@ A collection of leethobbit's templates, Canvas dashboards, or other useful thing
 ## How to use
 Each folder in this repository will contain a selection of files needed to re-create some part of my vault. I've spent a lot of time in Obsidian creating nice dashboards, templates, and other things, and would like to share that work!  Most of these will require some level of work to get them fully functional, but I'll try to list out all of the steps that need to be taken for each one.
 
+## Examples
+![Goals Page](Examples/goals-example.png)
+![Trading Dashboard](Examples/trading-dashboard-example.png)
+![Work Dashboard](Examples/work-dashboard-example.png)
+
 ## Some Highlights
 - Callout blocks wrapping Dataview and Task queries - I recently changed up a lot of my queries so that they are wrapped in Callout blocks.  You may or may not like this, but I do - it has improved visibility for me on pages with lots of information.
 - Dynamic linking in templates - Not sure if that is the correct term, but I use a lot of dynamic linking in my templates. For example, in [Project Template](QuickAdd%20Templates/Project%20Template.md) you'll see that the tables are automatically set up to track the file after it is named - thank you to Templater for that!
