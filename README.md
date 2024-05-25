@@ -5,8 +5,11 @@ A collection of leethobbit's templates, Canvas dashboards, or other useful thing
 Each folder in this repository will contain a selection of files needed to re-create some part of my vault. I've spent a lot of time in Obsidian creating nice dashboards, templates, and other things, and would like to share that work!  Most of these will require some level of work to get them fully functional, but I'll try to list out all of the steps that need to be taken for each one.
 
 ## Examples
+### Goals Page
 ![Goals Page](Examples/goals-example.png)
+### Day Trading Dashboard (Created with the Canvas core plugin)
 ![Trading Dashboard](Examples/trading-dashboard-example.png)
+### Work Dashboard (Also created with the Canvas plugin)
 ![Work Dashboard](Examples/work-dashboard-example.png)
 
 ## Some Highlights
